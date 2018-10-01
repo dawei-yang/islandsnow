@@ -3,3 +3,11 @@
   box-shadow: none;
   border-bottom: 0 none !important;
 }
+
+.ui.borderless.middle.menu{
+  background-color: transparent;
+)}
+.ui.item{
+    margin-left: 25px;
+    margin-right:25px;
+  }
